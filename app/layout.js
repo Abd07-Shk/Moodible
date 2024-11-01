@@ -26,7 +26,7 @@ export default function RootLayout({ children }) {
 
   const footer = (
     <footer className="p-4 sm:p-8 grid place-items-center">
-      <Link href={'https://youtu.be/lkjrUW8fI40'} target="_blank" className="">
+      <Link href={'https://github.com/Abd07-Shk'} target="_blank" className="">
         <p className={'text-teal-500 duration-200 hover:text-white hover:bg-indigo-500  ' + fugaz.className}>Built by Abdullah Shaikh 💛</p>
       </Link>
     </footer>
