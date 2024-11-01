@@ -5,7 +5,7 @@ import Main from "@/components/Main";
 
 
 export const metadata = {
-    title: "Broodl ⋅ Dashboard",
+    title: "Moodible ⋅ Dashboard",
   };
 
 export default function DashboardPage(){
